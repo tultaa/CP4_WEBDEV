@@ -141,6 +141,7 @@ h3{
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    
 }
 .card {
     flex: 1;
@@ -172,13 +173,6 @@ h3{
     height: 40px;
     object-fit: contain;
 }
-
-.card-01 { background-color: #F1C2B0; }
-.card-02 { background-color: #F9EB98; }
-.card-03 { background-color: #C0D9DD; }
-.card-04 { background-color: #6975E8; } 
-
-
 
 /* Contato Page */
 .social-icons {
