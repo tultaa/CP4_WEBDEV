@@ -8,9 +8,9 @@ function Contato() {
             <div class="hero-text">
                 <h1 class="titulo">Dúvidas e<br></br> suporte, entre<br></br>em contato:</h1>
                 <div class="social-icons">
-                <img src="src/Components/img/ttcontato.png" alt="twittericon"></img>
-                <img src="src/Components/img/igcontato.png" alt="instagramicon"></img>
-                <img src="src/Components/img/disccontato.png" alt="discordicon"></img>
+                <img src="/ttcontato.png" alt="twittericon"></img>
+                <img src="/igcontato.png" alt="instagramicon"></img>
+                <img src="/disccontato.png" alt="discordicon"></img>
                 </div>
             </div>
             <div class="divider"></div>

@@ -14,10 +14,10 @@ function Sobre() {
 
         <div class="telas">
            
-            <img src="src/Components/img/tela1.png" alt="Criação de vídeo"></img>
+            <img src="/tela1.png" alt="Criação de vídeo"></img>
             
             
-            <img src="src/Components/img/tela2.png" alt="Criação de vídeo"></img>
+            <img src="/tela2.png" alt="Criação de vídeo"></img>
             
         </div>
     </div>
@@ -44,7 +44,7 @@ function Sobre() {
             <div class="plan">
                 <div class="plan-content">
                     <h3>Corporativo</h3>
-                    <img src="src/Components/img/plano.png" alt="Corporate plan icon"></img>
+                    <img src="/plano.png" alt="Corporate plan icon"></img>
                 </div>
                 <a href="#" class="plan-btn">Entre Em Contato</a>
             </div>
